@@ -40,5 +40,5 @@ For the purpose of this project, let *N=8*.
 ## Documentation
 
 For the full specification, description of the architecture and synthesis
-results see the [attached documentation](/fuljo/nearest-centroid-classifier/releases/v1.0/download/nearest-centroid-classifier.pdf)
+results see the [attached documentation](https://github.com/fuljo/nearest-centroid-classifier/releases/download/v1.0/nearest-centroid-classifier.pdf)
 (in italian).
